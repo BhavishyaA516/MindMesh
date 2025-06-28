@@ -15,3 +15,6 @@ This is a simple Note Taking App built using HTML, CSS, and JavaScript. It allow
 - **CSS**: For styling the UI
 - **JavaScript**: For the app's functionality and logic
 - **Local Storage**: To save and retrieve notes on the browser
+
+- ![image](https://github.com/user-attachments/assets/c213f979-1080-4d0f-b28b-9bbd1628a8ad)
+
